@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **darlan.hs.oliveira@gmail.com**
 
-- ⚡ Fun fact **I support four starving 😾😾😾😾 cats 😥.**
+- ⚡ Fun fact **I support four starving 😺😸😺😽 cats 😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
