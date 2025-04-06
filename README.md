@@ -9,17 +9,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darlanhso&label=Profile%20views&color=0e75b6&style=flat" alt="darlanhso" /> </p>
 
-- 🔭 I’m currently working on **LookYourPass**
+- 🔭 I’m currently working on **SafePass**
 
 - 🌱 I’m currently learning **Lean six-sigma**
 
-- 👨‍💻 My last project [autoConfig](https://github.com/DarlanHSO/autoConfig)
-
-- 💬 Ask me about **Batch script**
+- 👨‍💻 My last project [SafePass](https://github.com/DarlanHSO/safepass)
 
 - 📫 How to reach me **darlan.hs.oliveira@gmail.com**
 
-- ⚡ Fun fact **I support four starving 😺😸😺😽 cats 😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
